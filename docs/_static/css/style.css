@@ -1,46 +1,38 @@
-/* Điều chỉnh chiều rộng của nội dung */
 .wy-nav-content {
-    max-width: 100% !important;  /* Đảm bảo nội dung chiếm hết chiều rộng */
-    width: 100% !important;
+	max-width: 1200px !important;
 }
 
-/* Tăng chiều rộng của panel bên trái */
-.wy-nav-side {
-    width: 300px !important; /* Điều chỉnh chiều rộng của thanh bên trái */
-}
-
-
-/* Tăng khoảng cách dưới các ô mã */
+/* Increase margin after code cells */
 div.highlight {
-    margin-bottom: 0px;
+  margin-bottom: 0px; 
 }
 
 div.output_area.docutils.container {
-    margin-bottom: 0px;
+  margin-bottom: 0px; 
 }
 
 div.nboutput.nblast.docutils.container {
-    margin-bottom: 16px;
+  margin-bottom: 16px; 
 }
 
-/* Giảm khoảng cách dưới các ô văn bản */
+/* Reduce margin after text cells from 24px to 12px */
 p {
     line-height: 24px;
     font-size: 16px;
     margin: 0 0 12px;
 }
 
-/* Tăng khoảng cách trên các tiêu đề */
+/* Increase margin before headers */
 .rst-content h1, 
 .rst-content h2, 
 .rst-content h3, 
 .rst-content h4, 
 .rst-content h5, 
 .rst-content h6 {
-    margin-top: 1em;
+    margin-top: 1em; 
 }
 
-/* Tăng chiều rộng của panel bên trái */
+/* Increase the width of the left panel */
 .wy-nav-side {
-    width: 300px; /* Điều chỉnh chiều rộng theo nhu cầu */
+    width: 300px; /* Adjust the width as needed */
 }
