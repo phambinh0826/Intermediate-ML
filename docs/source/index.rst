@@ -21,6 +21,7 @@ Contents
 --------
 
 .. toctree::
+:maxdepth: 1
    1. missing-values
    2. categorical-variables
    3. pipelines
