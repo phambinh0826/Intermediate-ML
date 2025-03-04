@@ -2,6 +2,7 @@
 ==================================================================
 
 Nếu bạn đã có nền tảng về *machine learning* và muốn học cách nhanh chóng cải thiện chất lượng mô hình của mình, thì bạn đang ở đúng nơi! Trong khóa học này, bạn sẽ nâng cao kiến thức của mình bằng cách học cách:
+
 - Xử lý các loại dữ liệu thường gặp trong thực tế như **missing values** (*giá trị khuyết*), **categorical variables** (*biến phân loại*),
 
 - Thiết kế **pipelines** để cải thiện chất lượng mã *machine learning* của bạn,
@@ -17,7 +18,7 @@ Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông
 **Yêu cầu đầu vào:**
 =======================
 
-- Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình *machine learning* trước đây và quen thuộc với các chủ đề như:
+- Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình machine learning trước đây và quen thuộc với các chủ đề như:
       - [model validation](https://www.kaggle.com/dansbecker/model-validation) (*đánh giá mô hình*),
       - [underfitting and overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting) (*mô hình chưa đủ khớp và quá khớp*), và
       - [random forests](https://www.kaggle.com/dansbecker/random-forests) (*rừng ngẫu nhiên*).
