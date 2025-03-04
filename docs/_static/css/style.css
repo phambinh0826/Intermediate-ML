@@ -1,7 +1,14 @@
-/* Điều chỉnh chiều rộng của content */
+/* Điều chỉnh chiều rộng của nội dung */
 .wy-nav-content {
-    max-width: 1200px !important;
+    max-width: 100% !important;  /* Đảm bảo nội dung chiếm hết chiều rộng */
+    width: 100% !important;
 }
+
+/* Tăng chiều rộng của panel bên trái */
+.wy-nav-side {
+    width: 300px !important; /* Điều chỉnh chiều rộng của thanh bên trái */
+}
+
 
 /* Tăng khoảng cách dưới các ô mã */
 div.highlight {
