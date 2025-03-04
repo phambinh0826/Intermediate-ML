@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "Intermediate Machine Learning"
-authors = [{name = "", email = "graziella@lumache"}]
+authors = [{name = "Bình Phạm", email = "ptcb1012588646@gmail.com"}]
 dynamic = ["version", "description"]
