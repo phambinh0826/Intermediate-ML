@@ -20,33 +20,27 @@ Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông
 
 Contents
 --------
-
 .. toctree::
    :caption: 1. Missing Values
    :maxdepth: 1
-   source/1. missing-values.ipynb
-
+   1. missing-values
 .. toctree::
    :caption: 2. Categorical-Variables
    :maxdepth: 1
-   source/2. categorical-variables.ipynb
-
+   2. categorical-variables
 .. toctree::
    :caption: 3. Pipelines
    :maxdepth: 1
-   source/3. pipelines.ipynb
-
+   3. pipelines
 .. toctree::
    :caption: 4. Cross-Validation
    :maxdepth: 1
-   source/4. cross-validation.ipynb
-
+   4. cross-validation
 .. toctree::
    :caption: 5. XGBoost
    :maxdepth: 1
-   source/5. xgboost.ipynb
-
+   5. xgboost
 .. toctree::
    :caption: Data-Leakage
    :maxdepth: 1
-   source/6. data-leakage.ipynb
+   6. data-leakage
