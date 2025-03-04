@@ -39,6 +39,11 @@ html_theme = 'sphinx_rtd_theme'
 # -- Path to static files
 html_static_path = ['_static']
 
+# Thêm tệp CSS tùy chỉnh vào
+html_css_files = [
+    'css/style.css',  # Đảm bảo đúng đường dẫn
+]
+
 master_doc = 'index'
 
 highlight_language = 'python3'
