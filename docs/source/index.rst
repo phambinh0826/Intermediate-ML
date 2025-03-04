@@ -23,29 +23,29 @@ Contents
 .. toctree::
    :caption: Lecture 1 - Missing Values
    :maxdepth: 1
-   missing-values
+   docs/source/missing-values.ipynb
 
 .. toctree::
    :caption: Lecture 2 - Categorical-Variables
    :maxdepth: 1
-   categorical-variables
+   docs/source/categorical-variables.ipynb
 
 .. toctree::
    :caption: Lecture 3 - Pipelines
    :maxdepth: 1
-   pipelines
+   docs/source/pipelines.ipynb
 
 .. toctree::
    :caption: Lecture 4 - Cross-Validation
    :maxdepth: 1
-   cross-validation
+   docs/source/cross-validation.ipynb
 
 .. toctree::
    :caption: Lecture 5 - XGBoost
    :maxdepth: 1
-   xgboost
+   docs/source/xgboost.ipynb
 
 .. toctree::
    :caption: Lecture 6 - Data-Leakage
    :maxdepth: 1
-   data-leakage
+   docs/source/data-leakage.ipynb
