@@ -23,29 +23,29 @@ Contents
 .. toctree::
    :caption: Lecture 1 - Missing Values
    :maxdepth: 1
-   1. missing-values
+   missing-values
 
 .. toctree::
    :caption: Lecture 2 - Categorical-Variables
    :maxdepth: 1
-   2. categorical-variables
+   categorical-variables
 
 .. toctree::
    :caption: Lecture 3 - Pipelines
    :maxdepth: 1
-   3. pipelines
+   pipelines
 
 .. toctree::
    :caption: Lecture 4 - Cross-Validation
    :maxdepth: 1
-   4. cross-validation
+   cross-validation
 
 .. toctree::
    :caption: Lecture 5 - XGBoost
    :maxdepth: 1
-   5. xgboost
+   xgboost
 
 .. toctree::
    :caption: Lecture 6 - Data-Leakage
    :maxdepth: 1
-   6. data-leakage
+   data-leakage
