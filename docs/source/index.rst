@@ -14,38 +14,6 @@ Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông
 
 - Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình *machine learning* trước đây và quen thuộc với các chủ đề như [model validation](https://www.kaggle.com/dansbecker/model-validation) (*đánh giá mô hình*), [underfitting and overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting) (*mô hình chưa đủ khớp và quá khớp*), và [random forests](https://www.kaggle.com/dansbecker/random-forests) (*rừng ngẫu nhiên*).
 
-- Nếu bạn hoàn toàn mới với *machine learning*, hãy tham khảo khóa học [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), khóa học này sẽ cung cấp tất cả những kiến thức cần thiết để bạn chuẩn bị cho khóa học này.
-
-
-Contents
-========
-
-.. toctree::
-   :caption: 1. Missing Values
-   :maxdepth: 1
-   1. missing-values
-
-.. toctree::
-   :caption: 2. Categorical-Variables
-   :maxdepth: 1
-   2. categorical-variables
-
-.. toctree::
-   :caption: 3. Pipelines
-   :maxdepth: 1
-   3. pipelines
-
-.. toctree::
-   :caption: 4. Cross-Validation
-   :maxdepth: 1
-   4. cross-validation
-
-.. toctree::
-   :caption: 5. XGBoost
-   :maxdepth: 1
-   5. xgboost
-
-.. toctree::
-   :caption: Data-Leakage
+- Nếu bạn hoàn toàn mới với *machine learning*, hãy tham khảo khóa học [Intro to Machine L6 - Data-Leakage
    :maxdepth: 1
    6. data-leakage
