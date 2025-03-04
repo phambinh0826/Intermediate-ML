@@ -1,22 +1,25 @@
-Welcome to Lumache's documentation!
+Chào mừng bạn đến với khóa học Intermediate Machine Learning trên Kaggle!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nếu bạn đã có nền tảng về machine learning và muốn học cách nhanh chóng cải thiện chất lượng mô hình của mình, thì bạn đang ở đúng nơi! Trong khóa học này, bạn sẽ nâng cao kiến thức của mình bằng cách học cách:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- Xử lý các loại dữ liệu thường gặp trong thực tế như missing values (giá trị khuyết), categorical variables (biến phân loại),
+- Thiết kế pipelines để cải thiện chất lượng mã machine learning của bạn,
+- Sử dụng các kỹ thuật nâng cao để đánh giá mô hình như cross-validation (xác thực chéo),
+- Xây dựng các mô hình tiên tiến được sử dụng rộng rãi để chiến thắng các cuộc thi Kaggle như XGBoost,
+- Tránh các lỗi phổ biến và quan trọng trong data science như leakage (rò rỉ dữ liệu).
 
-.. note::
-
-   This project is under active development.
+Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông qua các bài tập thực hành với dữ liệu thực tế. Các bài tập này sử dụng dữ liệu từ cuộc thi Housing Prices Competition for Kaggle Learn Users, nơi bạn sẽ sử dụng 79 biến giải thích khác nhau (chẳng hạn như kiểu mái nhà, số phòng ngủ, số phòng tắm) để dự đoán giá nhà. Bạn sẽ đo lường tiến độ của mình bằng cách nộp dự đoán vào cuộc thi này và theo dõi thứ hạng của mình trên bảng xếp hạng!
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   1. introduction
+   2. missing-values
+   3. categorical-variables
+   4. pipelines
+   5. cross-validation
+   6. xgboost
+   7. data-leakage
