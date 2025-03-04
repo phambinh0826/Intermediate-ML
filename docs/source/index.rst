@@ -16,7 +16,10 @@ Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông
 
 **Yêu cầu đầu vào:**
 
-- Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình *machine learning* trước đây và quen thuộc với các chủ đề như [model validation](https://www.kaggle.com/dansbecker/model-validation) (*đánh giá mô hình*), [underfitting and overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting) (*mô hình chưa đủ khớp và quá khớp*), và [random forests](https://www.kaggle.com/dansbecker/random-forests) (*rừng ngẫu nhiên*).
+- Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình *machine learning* trước đây và quen thuộc với các chủ đề như:
+      - [model validation](https://www.kaggle.com/dansbecker/model-validation) (*đánh giá mô hình*),
+      - [underfitting and overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting) (*mô hình chưa đủ khớp và quá khớp*), và
+      - [random forests](https://www.kaggle.com/dansbecker/random-forests) (*rừng ngẫu nhiên*).
 
 - Nếu bạn hoàn toàn mới với *machine learning*, hãy tham khảo khóa học [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), khóa học này sẽ cung cấp tất cả những kiến thức cần thiết để bạn chuẩn bị cho khóa học này.
 
