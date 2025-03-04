@@ -15,7 +15,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
    1. introduction
    2. missing-values
