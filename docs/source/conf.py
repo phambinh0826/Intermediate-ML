@@ -1,7 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-
 project = 'Intermediate Machine Learning'
 copyright = '2025, Bình Phạm'
 author = 'Bình Phạm'
@@ -10,13 +9,13 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
-
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'nbsphinx',  # Added nbsphinx to handle Jupyter Notebooks
 ]
 
 intersphinx_mapping = {
@@ -28,7 +27,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
