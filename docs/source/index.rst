@@ -24,9 +24,9 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   1. missing-values
-   2. categorical-variables
-   4. pipelines
-   4. cross-validation
-   5. xgboost
-   6. data-leakage
+   missing-values
+   categorical-variables
+   pipelines
+   cross-validation
+   xgboost
+   data-leakage
