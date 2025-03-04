@@ -37,6 +37,9 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Path to static files
 html_static_path = ['_static']
+html_css_files = [
+    'custom.css',  # Thêm tệp custom.css của bạn vào
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
