@@ -21,25 +21,9 @@ Contents
 --------
 
 .. toctree::
-   :caption: 1. Missing Values
    1. missing-values
-
-.. toctree::
-   :caption: 2. Categorical-Variables
    2. categorical-variables
-
-.. toctree::
-   :caption: 3. Pipelines
    3. pipelines
-
-.. toctree::
-   :caption: 4. Cross-Validation
    4. cross-validation
-
-.. toctree::
-   :caption: 5. XGBoost
    5. xgboost
-
-.. toctree::
-   :caption: Data-Leakage
    6. data-leakage
