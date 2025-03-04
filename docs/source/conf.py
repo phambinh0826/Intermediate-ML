@@ -14,6 +14,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'nbsphinx',  # Hỗ trợ Jupyter Notebook
     'myst_parser'  # Hỗ trợ Markdown
+    'sphinx_rtd_theme',
 ]
 
 intersphinx_mapping = {
