@@ -1,5 +1,5 @@
 **Chào mừng bạn đến với khóa học Intermediate Machine Learning!**
-===================================
+==================================================================
 
 Nếu bạn đã có nền tảng về *machine learning* và muốn học cách nhanh chóng cải thiện chất lượng mô hình của mình, thì bạn đang ở đúng nơi! Trong khóa học này, bạn sẽ nâng cao kiến thức của mình bằng cách học cách:
 - Xử lý các loại dữ liệu thường gặp trong thực tế như **missing values** (*giá trị khuyết*), **categorical variables** (*biến phân loại*),
@@ -10,7 +10,6 @@ Nếu bạn đã có nền tảng về *machine learning* và muốn học cách
 
 Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông qua các bài tập thực hành với dữ liệu thực tế. Các bài tập này sử dụng dữ liệu từ cuộc thi [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course), nơi bạn sẽ sử dụng 79 biến giải thích khác nhau (chẳng hạn như kiểu mái nhà, số phòng ngủ, số phòng tắm) để dự đoán giá nhà. Bạn sẽ đo lường tiến độ của mình bằng cách nộp dự đoán vào cuộc thi này và theo dõi thứ hạng của mình trên [bảng xếp hạng](https://www.kaggle.com/c/home-data-for-ml-course/leaderboard)!
 
-
 **Yêu cầu đầu vào:**
 
 - Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình *machine learning* trước đây và quen thuộc với các chủ đề như [model validation](https://www.kaggle.com/dansbecker/model-validation) (*đánh giá mô hình*), [underfitting and overfitting](https://www.kaggle.com/dansbecker/underfitting-and-overfitting) (*mô hình chưa đủ khớp và quá khớp*), và [random forests](https://www.kaggle.com/dansbecker/random-forests) (*rừng ngẫu nhiên*).
@@ -19,7 +18,7 @@ Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông
 
 
 Contents
---------
+========
 
 .. toctree::
    :caption: 1. Missing Values
