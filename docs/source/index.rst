@@ -15,12 +15,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 0
-
-   1. introduction
-   2. missing-values
-   3. categorical-variables
-   4. pipelines
-   5. cross-validation
-   6. xgboost
-   7. data-leakage
+   :maxdepth: 1
+   :caption: Các bài học
+   *.ipynb
