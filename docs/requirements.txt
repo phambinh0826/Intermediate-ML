@@ -1,4 +1,7 @@
 sphinx
-sphinx_rtd_theme
+sphinx-rtd-theme
+readthedocs-sphinx-ext
 nbsphinx
-myst-parser
+ipython
+sphinx-gallery
+sphinx-copybutton
